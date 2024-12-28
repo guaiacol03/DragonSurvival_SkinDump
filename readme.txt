@@ -16,7 +16,7 @@ options:
     -key <KEY>    GitHub personal access key. Optional, but recommended not to run out of request limits
 
 How to dump and install a skin locally:
-    * Install python version 3.12+
+    * Install python version 3.12+ and requests ("pip install requests")
     * Run "python ddump.py dump <player_name> <dragon_type>"
         * You can see player skins via ingame menu
         * Set dragon_type to whichever dragon type you're creating
