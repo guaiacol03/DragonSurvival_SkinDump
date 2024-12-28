@@ -1,6 +1,6 @@
 usage: python ddump.py [-h] {list} {dump <name> <type>} {info <name>} [--key KEY]
 
-A tool for minecraft mod DragonSurvival to dump skins from developers repo.
+A tool for minecraft mod DragonSurvival (https://github.com/DragonSurvivalTeam/DragonSurvival) to dump skins from developers repo.
 Can automatically compose texture packs, which can be installed as described in DragonSurvival wiki under "Skin testing"
 
 commands:
